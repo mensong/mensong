@@ -1,5 +1,5 @@
 
-### 💻 Cool Stats :
-![mensong's GitHub stats](https://github-readme-stats.vercel.app/api?username=mensong&show_icons=true&theme=radical)
+# Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mensong&layout=compact&theme=tokyonight)
 
 ---
